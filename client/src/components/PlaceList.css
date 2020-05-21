@@ -1,0 +1,31 @@
+.angry {
+  border-bottom: solid 5px red;
+}
+
+.joyful {
+  border-bottom: solid 5px yellow;
+}
+
+.relaxed {
+  border-bottom: solid 5px greenyellow;
+}
+
+.energetic {
+  border-bottom: solid 5px orange;
+}
+
+.bored {
+  border-bottom: solid 5px green;
+}
+
+.thoughtful {
+  border-bottom: solid 5px turquoise;
+}
+
+.melancholic {
+  border-bottom: solid 5px blue;
+}
+
+.anxious {
+  border-bottom: solid 5px violet;
+}

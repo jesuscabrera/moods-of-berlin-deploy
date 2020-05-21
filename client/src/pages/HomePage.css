@@ -1,0 +1,212 @@
+.containerBox {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.col-3 {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.col-6 {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.col-9 {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.row {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.pullToTop {
+  margin-top: -150px !important;
+}
+
+.item1 {
+  height: 150px;
+  background-size: cover;
+  background-image: url(https://res.cloudinary.com/benchberlin/image/upload/v1589962391/moods-of-berlin%20/Hasenheide_mgttdq.jpg);
+}
+
+.overlay-effect-yellow {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  opacity: 0.9;
+  transition: 0.5s ease;
+  background-color: yellow;
+  overflow: hidden;
+}
+
+.overlay-effect-yellow:hover {
+  opacity: 0.3;
+  cursor: pointer;
+}
+
+.item2 {
+  background-size: cover;
+  height: 150px;
+  background-image: url(https://res.cloudinary.com/benchberlin/image/upload/v1589962401/moods-of-berlin%20/Admiralbru%CC%88cke_bjpk2q.jpg);
+}
+
+.overlay-effect-green {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  opacity: 0.9;
+  transition: 0.5s ease;
+  background-color: green;
+  overflow: hidden;
+}
+
+.overlay-effect-green:hover {
+  opacity: 0.3;
+  cursor: pointer;
+}
+
+.item3 {
+  background-size: cover;
+  height: 150px;
+  background-image: url(https://res.cloudinary.com/benchberlin/image/upload/v1589961851/moods-of-berlin%20/skywalk_marzahn_hcdn0r.jpg);
+}
+
+.overlay-effect-orange {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  opacity: 0.9;
+  transition: 0.5s ease;
+  background-color: orange;
+  overflow: hidden;
+}
+
+.overlay-effect-orange:hover {
+  opacity: 0.3;
+  cursor: pointer;
+}
+
+.item4 {
+  background-size: cover;
+  height: 150px;
+  background-image: url(https://res.cloudinary.com/benchberlin/image/upload/v1589961968/moods-of-berlin%20/Ku%CC%88nstlerhaus_Bethanien__31837444030_budj4d.jpg);
+}
+
+.overlay-effect-violet {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  opacity: 0.9;
+  transition: 0.5s ease;
+  background-color: violet;
+  overflow: hidden;
+}
+
+.overlay-effect-violet:hover {
+  opacity: 0.3;
+  cursor: pointer;
+}
+
+.item5 {
+  background-size: cover;
+  height: 150px;
+  background-image: url(https://res.cloudinary.com/benchberlin/image/upload/v1589962411/moods-of-berlin%20/Boros_wyt71x.jpg);
+}
+
+.overlay-effect-turquoise {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  opacity: 0.9;
+  transition: 0.5s ease;
+  background-color: turquoise;
+  overflow: hidden;
+}
+
+.overlay-effect-turquoise:hover {
+  opacity: 0.3;
+  cursor: pointer;
+}
+
+.item6 {
+  background-size: cover;
+  height: 300px;
+  background-image: url(https://res.cloudinary.com/benchberlin/image/upload/v1589962144/moods-of-berlin%20/Wilhelm-Foerster-Sternwarte_ic0idw.jpg);
+}
+
+.overlay-effect-red {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  opacity: 0.8;
+  transition: 0.5s ease;
+  background-color: red;
+  overflow: hidden;
+}
+
+.overlay-effect-red:hover {
+  opacity: 0.3;
+  cursor: pointer;
+}
+
+.item7 {
+  background-size: cover;
+  height: 150px;
+  background-image: url(https://res.cloudinary.com/benchberlin/image/upload/v1589961988/moods-of-berlin%20/Spreepark_Berlin_shlvsq.jpg);
+}
+
+.overlay-effect-blue {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  opacity: 0.8;
+  transition: 0.5s ease;
+  background-color: blue;
+  overflow: hidden;
+}
+
+.overlay-effect-blue:hover {
+  opacity: 0.3;
+  cursor: pointer;
+}
+
+.item8 {
+  background-size: cover;
+  height: 150px;
+  background-image: url(https://res.cloudinary.com/benchberlin/image/upload/v1589961973/moods-of-berlin%20/Oberbaumbru%CC%88cke_mit_U-Bahn_t6mnj3.jpg);
+}
+
+.overlay-effect-greenyellow {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  opacity: 0.8;
+  transition: 0.5s ease;
+  background-color: greenyellow;
+  overflow: hidden;
+}
+
+.overlay-effect-greenyellow:hover {
+  opacity: 0.3;
+  cursor: pointer;
+}
